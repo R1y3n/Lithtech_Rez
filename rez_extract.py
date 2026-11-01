@@ -7,7 +7,7 @@ Usage
     python rez_extract.py GAME.REZ -o out             extract to out/GAME/
     python rez_extract.py GAME.REZ --list             list contents, write nothing
 
-Every archive is extracted into OUT/<archive-name>/ (OUT defaults to ./).
+Every archive is extracted into OUT/<archive-name>/ (OUT defaults to ./)!
 
 REZ format (all integers little-endian, offsets from start of file)
     0    CR LF <60-byte file type> CR LF <60-byte title> CR LF     framing
