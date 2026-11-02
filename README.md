@@ -32,5 +32,8 @@ python lithtech_rez.py -p FOLDER -clonev SRC.rez         # pack in SRC's format,
     <img src="https://img.shields.io/badge/Owner-R1y3n-181717?style=flat-square&logo=github" alt="Owner" />
   </a>
 
+<a href="https://github.com/R1y3n">
+    <img src="https://img.shields.io/github/followers/R1y3n?label=R1y3n&style=flat-square&logo=github" alt="Owner" />
+  </a>
 
 </div>
