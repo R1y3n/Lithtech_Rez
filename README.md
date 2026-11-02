@@ -27,6 +27,6 @@ python lithtech_rez.py -p FOLDER -clonev SRC.rez         # pack in SRC's format,
 
 <div align="center">
 
-** Lithtech RezMgr reverse engineering by [@username](https://github.com/username) **
+<b>Lithtech RezMgr reverse engineering by [@username](https://github.com/username) </b> <img src="https://img.shields.io/github/owner/your-repo-name?label=Owner&style=flat-square" alt="Repo Owner" />
 
 </div>
