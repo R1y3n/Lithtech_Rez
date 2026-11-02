@@ -26,5 +26,7 @@ python lithtech_rez.py -p FOLDER -clonev SRC.rez         # pack in SRC's format,
 * RezMgr Copyright (C) 1995 MONOLITH INC.
 
 <div align="center">
-<b>Lithtech RezMgr reverse engineering by [@username](https://github.com/username) </b>
+
+** Lithtech RezMgr reverse engineering by [@username](https://github.com/username) **
+
 </div>
